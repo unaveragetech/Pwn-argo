@@ -1,8 +1,3 @@
-### Files in the Repository
-
-Here is a list of all the files that should be included in the repository to ensure the project functions as intended:
-
----
 
 #### **1. Python Script Files**
 - `main.py`  
@@ -138,5 +133,3 @@ Below is an example of the `config.json` file:
 This project is open source and available under the [MIT License](LICENSE).
 
 ```
-
-This structure and README ensure the repository is well-documented and easy to use. Let me know if you need additional features or changes!
